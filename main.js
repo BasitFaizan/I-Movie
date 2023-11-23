@@ -2,7 +2,7 @@
 let apiDiv = document.querySelector('.apiDiv');
 let apiDiv2 = document.querySelector('.apiDiv2');
 let apiDiv3 = document.querySelector('.apiDiv3');
-let api_keys = 'api_key=a661ad9a76a4f96b8c106da64250fee1e';
+let api_keys = 'api_key=661ad9a76a4f96b8c106da64250fee1e';
 let base_url = 'https://api.themoviedb.org/3';
 
 let ImgUrl = 'https://image.tmdb.org/t/p/w500'
